@@ -1,0 +1,7 @@
+##HOW TO USE
+
+##INSTRUCTIONS
+1.Extract the zip file.exe
+2.Import in andorid studio or any preferred Compiler
+3.Run main.dart
+4.Code will show the output in emulator or browser.
